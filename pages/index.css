@@ -16,7 +16,6 @@
 @import url(../blocks/quote/__image/quote__image.css);
 @import url(../blocks/quote/__text/quote__text.css);
 @import url(../blocks/quote/__content/quote__content.css);
-@import url(../blocks/quote/__author/quote__author.css);
 @import url(../blocks/quote/__author-name/quote__author-name.css);
 @import url(../blocks/quote/__author-job/quote__author-job.css);
 @import url(../blocks/location/location.css);
