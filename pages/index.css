@@ -12,3 +12,16 @@
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__item-container/lead__item-container.css);
 @import url(../blocks/lead/__item/lead__item.css);
+@import url(../blocks/quote/quote.css);
+@import url(../blocks/quote/__image/quote__image.css);
+@import url(../blocks/quote/__text/quote__text.css);
+@import url(../blocks/quote/__content/quote__content.css);
+@import url(../blocks/quote/__author/quote__author.css);
+@import url(../blocks/quote/__author-name/quote__author-name.css);
+@import url(../blocks/quote/__author-job/quote__author-job.css);
+@import url(../blocks/location/location.css);
+@import url(../blocks/location/__title/location__title.css);
+@import url(../blocks/location/__text/location__text.css);
+@import url(../blocks/location/__images/location__images.css);
+@import url(../blocks/location/__image/location__image.css);
+@import url(../blocks/location/__item/location__item.css);
