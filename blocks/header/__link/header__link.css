@@ -1,0 +1,22 @@
+.header__link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 129%;
+    color: #151515;
+    text-decoration: none;
+    display: block;
+    padding-right: 34px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    transition: opacity 0.3s ease;
+    cursor: pointer;
+}
+
+.header__link:last-of-type {
+    padding-right: 120px;
+}
+
+.header__link:hover {
+    opacity: 0.75;
+}
