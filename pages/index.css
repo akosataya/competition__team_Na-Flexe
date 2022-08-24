@@ -8,7 +8,7 @@
 @import url(../blocks/lead/__text/lead__text.css);
 @import url(../blocks/lead/__button/lead__button.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
-@import url(../blocks/lead/__picture-container/lead__picture-container.css);
-@import url(../blocks/lead/__picture/lead__picture.css);
+@import url(../blocks/lead/__image-container/lead__image-container.css);
+@import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__item-container/lead__item-container.css);
 @import url(../blocks/lead/__item/lead__item.css);
