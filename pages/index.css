@@ -26,12 +26,14 @@
 @import url(../blocks/location/__images/location__images.css);
 @import url(../blocks/location/__image/location__image.css);
 @import url(../blocks/location/__item/location__item.css);
+@import url(../blocks/location/__icon/location__icon.css);
 @import url(../blocks/bicycles/bicycles.css);
 @import url(../blocks/bicycles/__title/bicycles__title.css);
 @import url(../blocks/bicycles/__container/bicycles__container.css);
 @import url(../blocks/bicycles/__menu/bicycles__menu.css);
 @import url(../blocks/bicycles/__item/bicycles__item.css);
 @import url(../blocks/bicycles/__link/bicycles__link.css);
+@import url(../blocks/bicycles/__overlay/bicycles__overlay.css);
 @import url(../blocks/bicycles/__images/bicycles__images.css);
 @import url(../blocks/bicycles/__image/bicycles__image.css);
 @import url(../blocks/bicycles/__caption/bicycles__caption.css);
